@@ -1,0 +1,22 @@
+{
+  "name": "vibe-play",
+  "version": "0.1.0",
+  "description": "Full-funnel Google Play store-listing optimization from Claude Code — keyword research, localized metadata, feature graphic and screenshots, custom listings and experiments, in-app localization, and a verified submission checklist. Bring your own Play Console / Play Developer API credentials.",
+  "author": {
+    "name": "bdseerden",
+    "url": "https://github.com/bdseerden"
+  },
+  "homepage": "https://github.com/bdseerden/vibe-play",
+  "license": "MIT",
+  "keywords": [
+    "aso",
+    "google-play",
+    "android",
+    "localization",
+    "keywords",
+    "screenshots",
+    "store-listing",
+    "play-console",
+    "play-developer-api"
+  ]
+}
