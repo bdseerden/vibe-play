@@ -1,0 +1,30 @@
+{
+  "name": "vibe-play-marketplace",
+  "description": "Vibe Play — Google Play store-listing optimization skills for Claude Code.",
+  "owner": {
+    "name": "bdseerden",
+    "url": "https://github.com/bdseerden"
+  },
+  "plugins": [
+    {
+      "name": "vibe-play",
+      "description": "You vibe-coded the Android app. Now vibe the Play listing. Keyword research, localized Play metadata, feature graphic and screenshots, custom listings and experiments, in-app localization, and a verified submission checklist, end to end from Claude Code.",
+      "author": {
+        "name": "bdseerden",
+        "url": "https://github.com/bdseerden"
+      },
+      "source": "./",
+      "homepage": "https://github.com/bdseerden/vibe-play",
+      "keywords": [
+        "aso",
+        "google-play",
+        "android",
+        "localization",
+        "keywords",
+        "screenshots",
+        "store-listing",
+        "play-console"
+      ]
+    }
+  ]
+}
