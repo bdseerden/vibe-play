@@ -1,0 +1,19 @@
+# User credentials must never enter this repo (they live in ~/.vibe-play/)
+*.json
+!/.claude-plugin/*.json
+play-sa.json
+*-sa.json
+*.p12
+*.pem
+config.json
+
+# Optional local renderer (not shipped)
+**/renderer/fonts/
+**/node_modules
+package-lock.json
+
+# OS / editor noise
+.DS_Store
+*.swp
+.idea/
+.vscode/
